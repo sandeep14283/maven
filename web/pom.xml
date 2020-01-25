@@ -6,7 +6,7 @@
     <!-- this is a parent pom -->
     <parent>
         <groupId>com.mkyong.multi</groupId>
-        <artifactId>java-multi-modules</artifactId>
+        <artifactId>maven</artifactId>
         <version>1.0</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
